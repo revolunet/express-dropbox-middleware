@@ -6,9 +6,14 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
   "author": "Julien Bouquillon <julien@revolunet.com> (http://twitter.com/revolunet)",
   "license": "MIT",
+  "keywords": [
+    "node",
+    "express",
+    "dropbox",
+    "middleware"
+  ],
   "dependencies": {
     "dropbox": "^0.10.3"
   }
