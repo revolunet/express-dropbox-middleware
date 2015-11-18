@@ -1,0 +1,15 @@
+{
+  "name": "express-dropbox-middleware",
+  "version": "1.0.0",
+  "description": "Map an express route to a dropbox folder",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Julien Bouquillon <julien@revolunet.com> (http://twitter.com/revolunet)",
+  "license": "MIT",
+  "dependencies": {
+    "dropbox": "^0.10.3"
+  }
+}
